@@ -1,0 +1,16 @@
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\BuildingSimulation.Form1.resources
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.csproj.GenerateResource.cache
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.AssemblyInfoInputs.cache
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.AssemblyInfo.cs
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.csproj.CoreCompileInputs.cache
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\bin\Debug\net8.0-windows\Task-7.exe
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\bin\Debug\net8.0-windows\Task-7.deps.json
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\bin\Debug\net8.0-windows\Task-7.runtimeconfig.json
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\bin\Debug\net8.0-windows\Task-7.dll
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\bin\Debug\net8.0-windows\Task-7.pdb
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.dll
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\refint\Task-7.dll
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.pdb
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\Task-7.genruntimeconfig.cache
+D:\2course\PRACTIC\lab2\oplab2-SheichukOlexandr\Task-7\obj\Debug\net8.0-windows\ref\Task-7.dll
