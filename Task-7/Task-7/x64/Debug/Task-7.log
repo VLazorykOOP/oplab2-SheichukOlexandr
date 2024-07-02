@@ -1,0 +1,3 @@
+﻿  Task-7.cpp
+D:\2course\PRACTIC\lab2\Task-7\Task-7.cpp(82,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task-7.vcxproj -> D:\2course\PRACTIC\lab2\Task-7\x64\Debug\Task-7.exe
